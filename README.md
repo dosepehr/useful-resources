@@ -10,6 +10,8 @@
 ### ```6.dompurify``` => purifying html codes
 ### ```7.date-fns-jalali``` => showing data
 
-## reposetories
+## interview resourses
 
 ### ```js interview``` => https://github.com/sudheerj/javascript-interview-questions
+### ditty.ir
+### frontendi.com

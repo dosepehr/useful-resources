@@ -12,6 +12,6 @@
 
 ## interview resourses
 
-### ```js interview``` => https://github.com/sudheerj/javascript-interview-questions
-### ditty.ir
-### frontendi.com
+### ```https://github.com/sudheerj/javascript-interview-questions```
+### ```ditty.ir```
+### ```frontendi.com```

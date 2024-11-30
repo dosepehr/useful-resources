@@ -9,3 +9,7 @@
 ### ```5.nanoid``` => random small ids
 ### ```6.dompurify``` => purifying html codes
 ### ```7.date-fns-jalali``` => showing data
+
+## reposetories
+
+### ```js interview``` => https://github.com/sudheerj/javascript-interview-questions

@@ -18,3 +18,7 @@
 ### ```https://github.com/sudheerj/javascript-interview-questions```
 ### ```ditty.ir```
 ### ```frontendi.com```
+
+## websites for documents & blogs
+
+### ```www.tutorialsteacher.com```

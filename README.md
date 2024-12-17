@@ -10,6 +10,8 @@
 ### ```6. dompurify``` => purifying html codes
 ### ```7. date-fns-jalali``` => showing data
 ### ```8. react-vpn-detector``` => react vpn
+### ```9. node-telegram-bot-api``` => telegram robots
+### ```10. telegraf``` => telegram robots
 
 ## interview resourses
 
